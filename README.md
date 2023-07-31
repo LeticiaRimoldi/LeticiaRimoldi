@@ -1,8 +1,8 @@
 ### Bem vindo(a) ao meu perfil 👩‍🎓👨‍🎓
 
-Meu nome é Letícia Pereira Rimoldi;
+Meu nome é Letícia Pereira Rimoldi.
 
--Estou estudando na [Alura](https://www.alura.com.br) ;
+-Estou estudando no [Alura](https://www.alura.com.br) ;
 
 -Estou me desenvolvendo na linguagem JavaScript, HTML e CSS;
 
