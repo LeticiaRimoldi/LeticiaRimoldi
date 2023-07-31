@@ -4,7 +4,7 @@ Meu nome é Letícia Pereira Rimoldi.
 
 -Estou estudando na [Alura](https://www.alura.com.br) ;
 
--Estou me desenvolvendo na linguagem JavaScript,HTML e CSS;
+-Estou me desenvolvendo na linguagem JavaScript, HTML e CSS;
 
 -Utilizo este espaço para minha organização e compartilhamento dos meus projetos.
 
